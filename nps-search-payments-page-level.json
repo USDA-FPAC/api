@@ -15,7 +15,7 @@
         {
           "id": "40938420398",
           "label": "Other Agency Offset",
-          "btnClass": "fsa-btn--secondary",
+          "btnClass": "fds-btn--secondary",
           "action": {
             "type": "goto",
             "val": "/demos/help/page-level-other-agency-offset"
@@ -24,7 +24,7 @@
         {
           "id": "4sdfsd20398",
           "label": "Reset Payment",
-          "btnClass": "fsa-btn--secondary",
+          "btnClass": "fds-btn--secondary",
           "action": {
             "type": "alert",
             "val": "Perform Reset Payment Process"
@@ -47,12 +47,12 @@
         {
           "id": "wsdvlim420398",
           "label": "Foreign Tax Withholding",
-          "btnClass": "fsa-btn--secondary"
+          "btnClass": "fds-btn--secondary"
         },
         {
           "id": "409384sdfds90fsd",
           "label": "Reset Payment",
-          "btnClass": "fsa-btn--secondary"
+          "btnClass": "fds-btn--secondary"
         }
       ]
     },
@@ -71,7 +71,7 @@
         {
           "id": "4sdfw09dv98",
           "label": "Prompt Pay",
-          "btnClass": "fsa-btn--secondary"
+          "btnClass": "fds-btn--secondary"
         }
       ]
     },
@@ -90,7 +90,7 @@
         {
           "id": "4sdfsfde420398",
           "label": "Other Agency Offset",
-          "btnClass": "fsa-btn--secondary",
+          "btnClass": "fds-btn--secondary",
           "action": {
             "type": "goto",
             "val": "/demos/help/page-level-other-agency-offset"
@@ -113,7 +113,7 @@
         {
           "id": "403sdds938sde398",
           "label": "Other Agency Offset",
-          "btnClass": "fsa-btn--secondary",
+          "btnClass": "fds-btn--secondary",
           "action": {
             "type": "goto",
             "val": "/demos/help/page-level-other-agency-offset"
@@ -136,7 +136,7 @@
         {
           "id": "40sdfsdvsd398",
           "label": "Other Agency Offset",
-          "btnClass": "fsa-btn--secondary",
+          "btnClass": "fds-btn--secondary",
           "action": {
             "type": "goto",
             "val": "/demos/help/page-level-other-agency-offset"
@@ -159,7 +159,7 @@
         {
           "id": "4sdfw09dv98",
           "label": "Prompt Pay",
-          "btnClass": "fsa-btn--secondary"
+          "btnClass": "fds-btn--secondary"
         }
       ]
     },
@@ -178,7 +178,7 @@
         {
           "id": "409384309jixvlksj",
           "label": "Other Agency Offset",
-          "btnClass": "fsa-btn--secondary",
+          "btnClass": "fds-btn--secondary",
           "action": {
             "type": "goto",
             "val": "/demos/help/page-level-other-agency-offset"
@@ -201,7 +201,7 @@
         {
           "id": "09ulkm.soefjjlvjxe0398",
           "label": "Other Agency Offset",
-          "btnClass": "fsa-btn--secondary",
+          "btnClass": "fds-btn--secondary",
           "action": {
             "type": "goto",
             "val": "/demos/help/page-level-other-agency-offset"
@@ -224,7 +224,7 @@
         {
           "id": "4sdfw09dv98",
           "label": "Prompt Pay",
-          "btnClass": "fsa-btn--secondary"
+          "btnClass": "fds-btn--secondary"
         }
       ]
     },
@@ -243,7 +243,7 @@
         {
           "id": "4sdfw09dv98",
           "label": "Prompt Pay",
-          "btnClass": "fsa-btn--secondary"
+          "btnClass": "fds-btn--secondary"
         }
       ]
     },
@@ -262,7 +262,7 @@
         {
           "id": "4dsi4sdjofije8h898",
           "label": "Other Agency Offset",
-          "btnClass": "fsa-btn--secondary",
+          "btnClass": "fds-btn--secondary",
           "action": {
             "type": "goto",
             "val": "/demos/help/page-level-other-agency-offset"
